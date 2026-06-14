@@ -39,3 +39,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# unused large video files
+public/card1.mp4
+public/card2.mp4
+public/card3.mp4
+public/card4.mp4
+public/hero.mp4
+public/hero2.mp4
+public/hero3.mp4
+public/hero4.mp4
+public/hero5.mp4
